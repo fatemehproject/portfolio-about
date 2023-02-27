@@ -60,7 +60,6 @@ h2 {
 
 .row h1 {
   font-size: 50px;
-  margin-top: 150px;
 }
 
 .section-title {
@@ -79,15 +78,6 @@ h2 {
   background-color: var(--bg-color);
   padding-left: 0;
   margin-top: 40px;
-}
-
-#header-footer {
-  margin: 49px 0 0 119px;
-}
-
-#paragraph-footer {
-  margin: 15px 0 42px 119px;
-  /* text-align: center; */
 }
 
 .btn-footer {
@@ -160,7 +150,6 @@ h2 {
   .row h1 {
     text-align: center;
     margin-bottom: 15px;
-    margin-top: 80px;
   }
   .row p {
     line-height: 2;
